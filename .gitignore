@@ -1,0 +1,11 @@
+/.DS_Store
+/.env
+/__pycache__
+/generated_image.png
+/image_mcp.ipynb
+/kaggle_5_days day2.ipynb
+/kaggle_5_days day2_b_exercise.ipynb
+/kaggle_5_days.ipynb
+/kaggle_5_days_1_squential.ipynb
+/kaggle_first_day_agent
+/mcp_adk_agent.py
